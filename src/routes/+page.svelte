@@ -1,6 +1,6 @@
 <script>
 	import { onMount } from 'svelte';
-	//import bgVideo from '$lib/images/front.mp4';
+	
 	import doodlelabslogosmall from '$lib/images/doodlelabssmall.png';
 	import doodlelabslogobig from '$lib/images/doodlelabsbig.png';
 	import doodlelabslogowhite from '$lib/images/doodlelabswhite.png';
@@ -209,8 +209,8 @@ https://opensea.io/collection/deciphers-by-irene-mamiye
 			<!-- Add any additional logo parts here -->
 		</div>
 		<div class="footer-icons">
-			<a href="https://twitter.com/DoodleLabs" class="icon"><img src={twittericon} alt="Twitter"></a>
-			<a href="https://discord.gg/DoodleLabs" class="icon"><img src={discordicon} alt="Discord"></a>
+			<a href="https://twitter.com/doodlelabs_io" class="icon"><img src={twittericon} alt="Twitter"></a>
+			<a href="https://discord.gg/wc5nAWeJaF" class="icon"><img src={discordicon} alt="Discord"></a>
 			<a href="mailto:info@doodlelabs.io" class="icon"><img src={emailicon} alt="Email"></a>
 		</div>
 	</footer>
